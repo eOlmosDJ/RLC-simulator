@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# PyInstaller builds y binarios pesados
+build/
+dist/
+*.spec
+
+# Capturas temporales de prueba
+screenshot_*.png
+test_frac*.png
